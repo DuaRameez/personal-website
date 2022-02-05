@@ -1,3 +1,3 @@
 # personal-website
 
-https://github.com/DuaRameez/personal-website.git
+https://duarameez.github.io/personal-website/
